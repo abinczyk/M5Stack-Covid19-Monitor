@@ -64,8 +64,8 @@ char thousand_separator = '.';
 // A simple method to configure multiple WiFi Access Configurations:
 // Add the SSID and the password to the list.
 // IMPORTANT: keep both arrays with the same length!
-String WIFI_ssid[]     = {"Home_ssid", "Work_ssid", "Mobile_ssid", "Best-Friend_ssid"};
-String WIFI_password[] = {"Home_pwd",  "Work_pwd",  "Mobile_pwd",  "Best-Friend_pwd"};
+String WIFI_ssid[]     = {"Manfred 2019", "Work_ssid", "Mobile_ssid", "Best-Friend_ssid"};
+String WIFI_password[] = {"01835915",  "Work_pwd",  "Mobile_pwd",  "Best-Friend_pwd"};
 
 // the actual data are provided on this github page:
 // https://github.com/pomber/covid19
